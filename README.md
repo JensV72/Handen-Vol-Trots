@@ -1,6 +1,8 @@
 # Handen Vol Trots
 
-![Logo van Handen Vol Trots](assets/logoHVT.png)
+<p align="center">
+  <img src="assets/logoHVT.png" alt="Logo van Handen Vol Trots" width="200"/>
+</p>
 
 **Wat als gebarentaal niet alleen communicatie was, maar ook kunst?**  
 Een innovatieve kunstinstallatie die dove kinderen de mogelijkheid geeft om via gebarentaal visuele kunst te creëren.  
@@ -54,13 +56,13 @@ Je handen worden ook hier live gevolgd, zodat de beelden reageren op je beweging
 
 ## Demo
 
-**Blijdschap/euforie**
+- **Blijdschap/euforie**
 ![blijdschap/euforie](assets/blijdschap.gif)
 
-**Woede/haat**
+- **Woede/haat**
 ![woede/haat](assets/woede.gif)
 
-**Verdriet/eenzaam**
+- **Verdriet/eenzaam**
 ![verdriet/eenzaam](assets/verdriet.gif)
 
 ---
