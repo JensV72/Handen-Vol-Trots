@@ -1,5 +1,7 @@
 # Handen Vol Trots
 
+![Logo van Handen Vol Trots](assets/logoHVT.png)
+
 **Wat als gebarentaal niet alleen communicatie was, maar ook kunst?**  
 Een innovatieve kunstinstallatie die dove kinderen de mogelijkheid geeft om via gebarentaal visuele kunst te creëren.  
 Met behulp van AI en TouchDesigner vertaalt het systeem handgebaren in interactieve visuals, waardoor een speelse, toegankelijke en inclusieve kunstervaring ontstaat.
@@ -52,7 +54,14 @@ Je handen worden ook hier live gevolgd, zodat de beelden reageren op je beweging
 
 ## Demo
 
-(Hier moet ik nog gifs van de emoties toevoegen)
+**Blijdschap/euforie**
+![blijdschap/euforie](assets/blijdschap.gif)
+
+**Woede/haat**
+![woede/haat](assets/woede.gif)
+
+**Verdriet/eenzaam**
+![verdriet/eenzaam](assets/verdriet.gif)
 
 ---
 
@@ -70,7 +79,7 @@ Voor echte impact is het belangrijk dat deze installatie zich bevindt op plekken
 
 - **Openbare ruimtes of festivals** – Denk aan stadspleinen, kinderfestivals of culturele evenementen. Op zulke plekken wordt de installatie een uitnodiging tot dialoog, contact en expressie, voor iedereen die langskomt.
 
-(Hier komt een foto met een voorbeeld)
+![setup](assets/setup.png)
 
 ---
 
