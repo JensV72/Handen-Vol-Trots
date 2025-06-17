@@ -57,13 +57,19 @@ Je handen worden ook hier live gevolgd, zodat de beelden reageren op je beweging
 ## Demo
 
 ### Blijdschap/euforie
-![blijdschap/euforie](assets/blijdschap.gif)
+<p align="center">
+  <img src="assets/blijdschap.gif" alt="Blijdschap" width="500"/>
+</p>
 
 ### Woede/haat
-![woede/haat](assets/woede.gif)
+<p align="center">
+  <img src="assets/woede.gif" alt="Woede" width="500"/>
+</p>
 
 ### Verdriet/eenzaam
-![verdriet/eenzaam](assets/verdriet.gif)
+<p align="center">
+  <img src="assets/verdriet.gif" alt="Verdriet" width="500"/>
+</p>
 
 ---
 
